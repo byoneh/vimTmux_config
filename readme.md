@@ -1,0 +1,1 @@
+set vim and tmux config
